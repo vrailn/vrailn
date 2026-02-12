@@ -5,5 +5,4 @@
 - Driver development (WDM / KMDF)
 
 **Languages**
-- C
-- C++
+- C/C++
