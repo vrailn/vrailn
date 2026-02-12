@@ -1,6 +1,6 @@
 
 ## Focus
-- Windows kernel internals
+- Windows internals
 - Anti-cheat bypass
 - Driver development (WDM / KMDF)
 
