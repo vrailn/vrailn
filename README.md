@@ -2,7 +2,7 @@
 ## Focus
 - Windows internals
 - Anti-cheat bypass
-- Driver development (WDM / KMDF)
+- Driver development
 
 **Languages**
 - C/C++
