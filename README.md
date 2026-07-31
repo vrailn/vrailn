@@ -9,4 +9,4 @@
   
 **Socials**
 
-https://2rich.xyz/viper/
+[https://2rich.xyz/viper/](bio_site)
