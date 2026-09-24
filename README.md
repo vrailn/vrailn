@@ -1,19 +1,21 @@
 # vrailn
 
-**Low-level C/C++ developer** working close to the metal, where the OS, the hardware, and the security boundary meet.
+low level c/c++ dev. i mostly work on windows internals, kernel drivers and anti-cheat stuff.
 
-## Focus
+### what i do
+- windows internals
+- driver development
+- anti-cheat bypass
 
-- **Windows internals**: how the kernel, memory manager, and system services work under the hood
-- **Driver development**: kernel-mode development on Windows
-- **Anti-cheat research & bypass**: reverse engineering protection systems and studying how detection works
+### stack
+![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![c++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-## Languages
+### contact
+[![web](https://img.shields.io/badge/vrailn.xyz-111111?style=flat-square)](https://vrailn.xyz)
+[![mail](https://img.shields.io/badge/vrailn@just--exhale.xyz-111111?style=flat-square)](mailto:vrailn@just-exhale.xyz)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-## Contact
-
-- Website: [vrailn.xyz](https://vrailn.xyz)
-- Email: [vrailn@just-exhale.xyz](mailto:vrailn@just-exhale.xyz)
+### stats
+![github stats](https://github-readme-stats.vercel.app/api?username=vrailn&show_icons=true&theme=dark&hide_border=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrailn&layout=compact&theme=dark&hide_border=true)
