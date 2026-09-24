@@ -16,6 +16,3 @@ low level c/c++ dev. i mostly work on windows internals, kernel drivers and anti
 [![web](https://img.shields.io/badge/vrailn.xyz-111111?style=flat-square)](https://vrailn.xyz)
 [![mail](https://img.shields.io/badge/vrailn@just--exhale.xyz-111111?style=flat-square)](mailto:vrailn@just-exhale.xyz)
 
-### stats
-![github stats](https://github-readme-stats.vercel.app/api?username=vrailn&show_icons=true&theme=dark&hide_border=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrailn&layout=compact&theme=dark&hide_border=true)
