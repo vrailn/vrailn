@@ -1,16 +1,16 @@
-## Hi there 👋
+# vrailn
 
-<!--
-**vrailn/vrailn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+low level c/c++ dev. i mostly work on windows internals, kernel drivers and anti-cheat stuff.
 
-Here are some ideas to get you started:
+### what i do
+- windows internals
+- driver development
+- anti-cheat bypass
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stack
+![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![c++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+### contact
+[![web](https://img.shields.io/badge/vrailn.xyz-111111?style=flat-square)](https://vrailn.xyz)
