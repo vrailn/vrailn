@@ -14,4 +14,3 @@ low level c/c++ dev. i mostly work on windows internals, kernel drivers and anti
 
 ### contact
 [![web](https://img.shields.io/badge/vrailn.xyz-111111?style=flat-square)](https://vrailn.xyz)
- 
